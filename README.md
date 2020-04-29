@@ -1,3 +1,4 @@
 #Banking-System
 It is created in java.
-It is a program with withdraw,deposit,check balance options. 
+It is a program with withdraw,deposit,check balance options.
+There are two type of Account : Saving and Current Account.
